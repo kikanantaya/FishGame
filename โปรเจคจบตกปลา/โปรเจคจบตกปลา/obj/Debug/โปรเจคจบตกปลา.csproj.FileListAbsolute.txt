@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\bin\Debug\โปรเจคจบตกปลา.exe.config
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\bin\Debug\โปรเจคจบตกปลา.exe
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\bin\Debug\โปรเจคจบตกปลา.pdb
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.Form1.resources
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.Properties.Resources.resources
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.exe
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.pdb
+C:\Users\User\source\repos\โปรเจคจบตกปลา\โปรเจคจบตกปลา\obj\Debug\โปรเจคจบตกปลา.Form2.resources
